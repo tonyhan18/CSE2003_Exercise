@@ -9,8 +9,6 @@
 
 from turtle import *
 
-colorL = ["green", "yellow"]
-
 shape("turtle")
 pencolor("red")
 fillcolor("green")
