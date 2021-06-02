@@ -16,9 +16,6 @@ student = np.array([[75, 89, 92, 78],
 stuSum = np.sum(student, axis = 1)/len(student[0]) # Student
 subSum = np.sum(student, axis = 0)/len(student[0]) # Subject
 
-print(stuSum)
-print(subSum)
-
 x = np.array(["A","B","C","D"])
 y = np.array(["Kor","Math","Eng","Com"])
 
